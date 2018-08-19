@@ -1,0 +1,50 @@
+{	
+	"basicdetails":{
+		"image":"Tulips.jpg",
+		"name":"Jahnavi.Ravuri",
+		"email":"jahnaviravuri6666@gmail.com",	
+		"phone":"8523019555",
+		"address":"vinukonda"
+	},
+	"education":[
+		{
+			"course":"B.tech(CSE)",
+			"college":"vignan",
+			"percent":"80"
+		},
+		{
+			"course":"inter",
+			"college":"Gitams",
+			"percent":"91"
+		},
+		{
+			"course":"ssc",
+			"college":"Genius",
+			"percent":"92"
+		}
+	],
+	"skills":[
+		{
+			"name":"Operating systems",
+			"value":"Windows,Linux,MAC"
+		},
+		{
+			"name":"Programming Languages",
+			"value":"C,C++,Java,Python"
+
+		}
+	],
+	"carrier":{
+		"ca":"I want to excel in this field with hard work, perseverance and dedication"
+
+	},
+	"achievements":[
+		"I got good percent in this college",
+		"I have participated in so many events",
+		"I stood second in the class",
+		"I bunked classes very frequently during fest"
+	],
+	"description":{
+		"des":"I thereby decalred that all the above mentioned are true in my concern"
+	}
+}
